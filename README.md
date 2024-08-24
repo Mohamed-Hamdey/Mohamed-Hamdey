@@ -1,67 +1,66 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-mostafa.mohamed-mostafa" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+I'm+Mohamed+Hamdy!;" />
-</h1>
+<p align="center">
+  <samp>
+    My name is <em>Mohamed</em>. I am a Computer Science student and Data Scientist...
+  <br/> Python enthusiast... JS lover. Flask aficionado.
+    <br/> Currently a full-time student and coding instructor.
+      <br/>
+Passionate about creating interactive platforms, solving LeetCode problems, and continuous learning.
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
 
-<h3 align="center">A Passionate Software Developer from Giza, Egypt 🇪🇬</h3>
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="30%"/>
 
-<div align="center">
-  <p>
-    🔭 I'm currently working on <strong>an interactive education dashboard for biology</strong>, utilizing Flask, MS SQL, and modern frontend technologies.
-  </p>
-  <p>
-    🌱 I'm actively learning <strong>Google Cloud, AWS Elastic Beanstalk, and advanced Flask techniques</strong> to enhance my deployment skills.
-  </p>
-  <p>
-    💬 Feel free to ask me about <strong>Flask, Python, MS SQL, or anything <a href="https://github.com/Mohamed-Hamdey/Mohamed-Hamdey/issues">here</a></strong>.
-  </p>
-  <p>
-    ⚡ Fun fact: <strong>The first computer bug was an actual bug—a moth stuck in a Harvard Mark II computer in 1947!</strong>
-  </p>
-</div>
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" /> Developing an interactive online education dashboard for a biology teacher using Flask and MS SQL
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" /> Learning about data science, delving into various techniques and tools to enhance my ability to analyze and interpret complex data sets.
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Advanced Python and Flask features
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Machine Learning techniques
 
-<div align="center">
-  <a href="mailto:mohamedhamdy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> Open-source projects related to web development and deployment
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Innovative ideas for educational tech
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" /> Ask me about...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> Anything related to coding, web development, or tech education
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me...
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hamdy-728757282/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/mohamed-hamdy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF5733?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:mohamed.hamdey.hafez@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
-  <a href="https://mohamedhamdy.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+</p>
 
-<hr/>
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+<p align="center">
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" alt="CSS3" />
+<img src="https://img.shields.io/badge/Flask-3C3C3C?style=for-the-badge&logo=flask&logoColor=white&labelColor=black" alt="Flask" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black" alt="SQL" />
+<img src="https://img.shields.io/badge/Heroku-6F2C91?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black" alt="Heroku" />
+<img src="https://img.shields.io/badge/Google_Cloud-005FEE?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black" alt="AWS" />
 
-<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,mysql,git,github,vscode&theme=light" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,heroku&theme=light" />
-</div>
 
-<hr/>
+</p>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Mohamed-Hamdey/Mohamed-Hamdey/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mohamed-mostafa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mohamed-mostafa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mohamed-mostafa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<hr/>
-<br/>
