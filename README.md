@@ -21,7 +21,9 @@
 <tr>
 <td width="38%" valign="middle" align="center">
 
-<img src="assets/me-vision.svg" width="100%" alt="Neural-network eye with a detection box labelled ai_engineer"/>
+<a href="https://Mohamed-Hamdey.github.io/portfolio/">
+  <img src="assets/asciify.gif" width="100%" alt="Portrait of Mohamed Hamdy rendered in ASCII"/>
+</a>
 
 </td>
 <td width="62%" valign="top">
