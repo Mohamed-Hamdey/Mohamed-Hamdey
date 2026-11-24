@@ -19,14 +19,15 @@
 
 <table>
 <tr>
-<td width="38%" valign="middle" align="center">
+<td width="42%" valign="middle" align="center">
 
 <a href="https://Mohamed-Hamdey.github.io/portfolio/">
-  <img src="assets/asciify.webm" width="100%" alt="Portrait of Mohamed Hamdy rendered in ASCII"/>
+  <img src="assets/portrait.svg" alt="ASCII portrait of Mohamed Hamdy" width="100%"/>
 </a>
+<br/>
 
 </td>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
 ```python
 class MohamedHamdy:
