@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Mohamed%20Hamdy&fontSize=62&fontColor=00F5FF&animation=fadeIn&fontAlignY=34&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Engineer&descSize=20&descAlignY=56&descColor=B8B8FF" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;YOLOv11+%C2%B7+OCR+%C2%B7+Real-Time+Recognition;RAG+chatbots+grounded+in+real+data+%F0%9F%A4%96;Building+AI+that+makes+the+world+more+accessible+%E2%99%BF;Discipline+from+the+mat.+Precision+from+the+model.+%F0%9F%A5%8B" alt="Typing SVG" />
-</a>
+<img src="assets/hero.svg" width="100%" alt="Mohamed Hamdy — I teach machines to see and to answer"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hamdey&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Mohamed-Hamdey?label=FOLLOWERS&style=for-the-badge&logo=github&color=7B2FF7)
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hamdey&label=PROFILE+VIEWS&color=0F5132&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Mohamed-Hamdey?label=FOLLOWERS&style=for-the-badge&logo=github&color=B37800)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdy-728757282/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hamdey.hafez@gmail.com)
@@ -19,46 +13,44 @@
 
 </div>
 
----
-
-<div align="center">
-
-```text
- INPUT          HIDDEN          HIDDEN          OUTPUT
-
-  (●)───┐        (●)───┐        (●)───┐
-  (●)───┼──────→ (●)───┼──────→ (●)───┼──────→  [ PREDICTION ]
-  (●)───┘        (●)───┘        (●)───┘
-```
-
-</div>
-
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧠 `> whoami`
+
+<table>
+<tr>
+<td width="38%" valign="middle" align="center">
+
+<img src="assets/me-vision.svg" width="100%" alt="Neural-network eye with a detection box labelled ai_engineer"/>
+
+</td>
+<td width="62%" valign="top">
 
 ```python
 class MohamedHamdy:
     def __init__(self):
-        self.role       = "AI / Computer Vision Engineer"
-        self.education  = "B.Sc. Computer Science, Minia University (2026), GPA 3.6/4.0"
-        self.focus      = ["Computer Vision", "NLP", "RAG Systems", "OCR"]
-        self.based_in   = "Cairo, Egypt 🇪🇬"
-        self.background = "National-level Kung Fu athlete (Egypt, 2021) 🥋"
-        self.military   = "Exempted"
-        self.mission    = "Ship AI that is accurate, real-time, and genuinely useful"
-        self.open_to    = ["ML / CV / Applied AI roles", "Research internships", "Collaborations"]
+        self.role      = "AI / Computer Vision Engineer"
+        self.education = "B.Sc. CS, Minia University (2026), GPA 3.6/4.0"
+        self.focus     = ["Computer Vision", "NLP", "RAG", "OCR"]
+        self.based_in  = "Cairo, Egypt 🇪🇬"
+        self.origin    = "National-level Kung Fu athlete (2021) 🥋"
+        self.open_to   = ["ML / CV / Applied AI roles",
+                          "Research internships", "Collaborations"]
 
     def forward(self, curiosity):
-        return self.mission if curiosity > 0 else None
+        return "ship it" if curiosity > 0 else None
 
     def philosophy(self):
-        return "Train hard. Measure everything. Never stop iterating."
+        return "Train hard. Measure everything. Iterate."
 ```
+
+</td>
+</tr>
+</table>
 
 I build **AI systems that work in the real world**: a YOLOv11 vehicle detector serving a university of 15,000+ people, a real-time sign-language-to-speech system, and a bilingual RAG chatbot grounded in live real-estate data. Before code, there was the mat: years of competitive Kung Fu taught me the discipline, patience, and resilience I now bring to every training run.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⭐ `> latest_build`
 
@@ -78,14 +70,14 @@ A full pipeline built end to end by one person on a free-tier budget: scrape pub
 - 🐳 **Shipped:** containerised with **Docker** and deployed with a live demo
 - 🎨 **UI:** custom chat interface designed to match the DarGlobal website's look and feel
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00F5FF?style=for-the-badge&logo=render&logoColor=black)](https://darglobal-rag.onrender.com/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-7B2FF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Hamdey/darglobal-rag)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0F5132?style=for-the-badge&logo=render&logoColor=black)](https://darglobal-rag.onrender.com/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-B37800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Hamdey/darglobal-rag)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF1493?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0E7C66?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 > ⏳ The demo runs on a free host, so the first load can take a moment to wake up.
@@ -95,6 +87,7 @@ A full pipeline built end to end by one person on a free-tier budget: scrape pub
 </table>
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0b1620','primaryBorderColor':'#39FF88','primaryTextColor':'#C9F7E2','lineColor':'#FFB000','secondaryColor':'#0b1620','tertiaryColor':'#050a0f'}}}%%
 flowchart LR
     A[🕷️ Scrape<br/>DarGlobal + Wasalt] --> B[🧹 Clean &<br/>Chunk]
     B --> C[(🗂️ Index)]
@@ -104,7 +97,7 @@ flowchart LR
     F --> G[✅ Grounded<br/>answer]
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 `> featured_projects`
 
@@ -121,8 +114,8 @@ AI module for Minia University's transportation system, serving **15,000+ studen
 - 🔢 **OCR pipeline** for mileage extraction → **98% accuracy**
 - 🗂️ **5,000+** images annotated with CVAT & Roboflow
 
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00F5FF?style=flat-square&logoColor=black)
-![OCR](https://img.shields.io/badge/OCR-8A2BE2?style=flat-square)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-0F5132?style=flat-square&logoColor=black)
+![OCR](https://img.shields.io/badge/OCR-B37800?style=flat-square)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -179,7 +172,7 @@ Built during my network internship.
 
 > 🔎 More on my [repositories page](https://github.com/Mohamed-Hamdey?tab=repositories).
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ `> tech_stack`
 
@@ -192,10 +185,10 @@ Built during my network internship.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00F5FF?style=for-the-badge&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF1493?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-C71585?style=for-the-badge)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-0F5132?style=for-the-badge&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-B37800?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0E7C66?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-C2410C?style=for-the-badge)
 
 **💻 Languages**
 
@@ -218,7 +211,7 @@ Built during my network internship.
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧭 `> training_log`
 
@@ -236,7 +229,7 @@ Built during my network internship.
 NOW   🚀 Building AI systems & looking for the next big challenge
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🥋 `> mat_to_model`
 
@@ -247,26 +240,26 @@ NOW   🚀 Building AI systems & looking for the next big challenge
 | Fall seven times, stand up eight | Debug, retrain, ship |
 | Respect the fundamentals | Master the math before the framework |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 `> metrics`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=Mohamed-Hamdey&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10&hide_border=true&title_color=00F5FF&icon_color=00F5FF" alt="stats"/>
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mohamed-Hamdey&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&hide_border=true&title_color=00F5FF&size_weight=0.5&count_weight=0.5" alt="top languages"/>
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=Mohamed-Hamdey&count_private=true&show_icons=true&bg_color=050a0f&text_color=C9F7E2&border_color=14352a&rank_icon=github&border_radius=10&title_color=39FF88&icon_color=39FF88" alt="stats"/>
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mohamed-Hamdey&hide=HTML&langs_count=8&layout=compact&bg_color=050a0f&text_color=C9F7E2&border_color=14352a&border_radius=10&title_color=39FF88&size_weight=0.5&count_weight=0.5" alt="top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mohamed-Hamdey&count_private=true&theme=midnight-purple&border_radius=10&hide_border=true&stroke=00F5FF&ring=7B2FF7&fire=00F5FF" alt="streak"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mohamed-Hamdey&count_private=true&background=050a0f&stroke=14352a&ring=FFB000&fire=39FF88&currStreakNum=C9F7E2&sideNums=C9F7E2&currStreakLabel=FFB000&sideLabels=39FF88&dates=6B8F83&border_radius=10" alt="streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hamdey&theme=algolia&no-frame=true&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Hamdey&theme=matrix&no-frame=true&row=1&column=7" alt="trophies"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🐍 `> contribution_grid`
 
@@ -281,7 +274,7 @@ NOW   🚀 Building AI systems & looking for the next big challenge
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 `> status: in_progress`
 
@@ -293,15 +286,13 @@ NOW   🚀 Building AI systems & looking for the next big challenge
 + ⚡ Fun fact: 500+ students taught, and a national stage fought on
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
-
-### 📫 `> connect.init()`
 
 [![Email](https://img.shields.io/badge/mohamed.hamdey.hafez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hamdey.hafez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdy-728757282/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=00F5FF&animation=fadeIn" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="git commit -m let's build something that matters — open to ML, CV and Applied-AI roles"/>
 
 </div>
