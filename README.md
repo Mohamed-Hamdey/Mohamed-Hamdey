@@ -22,7 +22,7 @@
 <td width="38%" valign="middle" align="center">
 
 <a href="https://Mohamed-Hamdey.github.io/portfolio/">
-  <img src="assets/asciify.gif" width="100%" alt="Portrait of Mohamed Hamdy rendered in ASCII"/>
+  <img src="assets/asciify.webm" width="100%" alt="Portrait of Mohamed Hamdy rendered in ASCII"/>
 </a>
 
 </td>
