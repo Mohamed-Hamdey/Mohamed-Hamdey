@@ -1,20 +1,3 @@
-<div align="center">
-
-<img src="assets/hero.svg" width="100%" alt="Mohamed Hamdy — I teach machines to see and to answer"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hamdey&label=PROFILE+VIEWS&color=0F5132&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Mohamed-Hamdey?label=FOLLOWERS&style=for-the-badge&logo=github&color=B37800)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdy-728757282/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hamdey.hafez@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## 🧠 `> whoami`
 
 <table>
@@ -49,7 +32,16 @@ class MohamedHamdy:
 
 </td>
 </tr>
+
+
+
 </table>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Hamdey&label=PROFILE+VIEWS&color=0F5132&style=for-the-badge) [![Followers](https://img.shields.io/github/followers/Mohamed-Hamdey?label=FOLLOWERS&style=for-the-badge&logo=github&color=B37800)](https://github.com/Mohamed-Hamdey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamdy-728757282/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.hamdey.hafez@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohamed_hamdey/)
+  
+</div>
 
 I build **AI systems that work in the real world**: a YOLOv11 vehicle detector serving a university of 15,000+ people, a real-time sign-language-to-speech system, and a bilingual RAG chatbot grounded in live real-estate data. Before code, there was the mat: years of competitive Kung Fu taught me the discipline, patience, and resilience I now bring to every training run.
 
